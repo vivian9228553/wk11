@@ -1,0 +1,34 @@
+.mdl-card {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.demo-avatar {
+    width: 60px;
+    height: 60px;
+    padding: 0px;
+}
+#user-info {
+  padding: 10px;
+  width: 216px;
+  box-sizing: border-box;
+}
+
+#user-pic {
+  padding:10px;
+  width: 72px;
+  box-sizing: border-box;
+}
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+ul li {
+    font-family: Roboto;
+    line-height: 24px;
+}
+#sign-info {
+  color: #00BCD4;
+  font-size: 120%;
+}
